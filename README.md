@@ -33,7 +33,7 @@ An interactive web app built with **Next.js** and **TypeScript** that lets users
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/word-sentence-explorer.git
+   git clone [[https://github.com/Madhukar-singh/word-sentence-explorer.git](https://github.com/Madhukar-singh/AI_word_sentance_explainer)]
    cd word-sentence-explorer
    ```
 
