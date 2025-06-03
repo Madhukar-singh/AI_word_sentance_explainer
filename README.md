@@ -26,6 +26,9 @@ An interactive web app built with **Next.js** and **TypeScript** that lets users
 
 ---
 
+## DEMO LINK
+[Link](https://ai-word-sentance-explainer.vercel.app)
+
 ## Installation & Setup
 
 > Requires: **Node.js ≥ 18**, **npm ≥ 9**
