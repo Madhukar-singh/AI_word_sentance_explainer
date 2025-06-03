@@ -1,6 +1,6 @@
 # Word & Sentence Explorer
 
-An interactive web app built with **Next.js** and **TypeScript** that lets users explore the meanings of words (via hover) and sentences (via click). It fetches word definitions from the [DictionaryAPI.dev](https://dictionaryapi.dev) and uses a custom API for sentence meaning (AI model like OpenAI optional).
+An interactive web app built with **Next.js** and **TypeScript** that lets users explore the meanings of words (via hover) and sentences (via click). It fetches word definitions from the [DictionaryAPI.dev](https://dictionaryapi.dev) and uses a custom API for sentence meaning (AI model like Gemini).
 
 ---
 
