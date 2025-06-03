@@ -27,7 +27,7 @@ An interactive web app built with **Next.js** and **TypeScript** that lets users
 ---
 
 ## DEMO LINK
-[Link](https://ai-word-sentance-explainer.vercel.app)
+[https://ai-word-sentance-explainer.vercel.app/)](https://ai-word-sentance-explainer.vercel.app)
 
 ## Installation & Setup
 
